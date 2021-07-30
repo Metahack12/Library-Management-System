@@ -1,0 +1,56 @@
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csprojAssemblyReference.cache
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddBooks.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\LibraryManagementSystem.Login.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.GenerateResource.cache
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.CoreCompileInputs.cache
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.CopyComplete
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewBook.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudent.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewStudentInformation.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueBooks.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReturnBooks.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CompleteBookDetails.resources
+D:\Users\admin\Source\repos\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RB.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documents\LibraryManagement\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csprojAssemblyReference.cache
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddBooks.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudent.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CompleteBookDetails.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueBooks.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\LibraryManagementSystem.Login.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RB.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReturnBooks.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewBook.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewStudentInformation.resources
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.GenerateResource.cache
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.CoreCompileInputs.cache
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\Library Management Sys.csproj.CopyComplete
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Documents\LibraryManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
